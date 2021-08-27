@@ -12,9 +12,9 @@ C www.astronomia.edu.uy/orbe
       DIMENSION POS(3),VEL(3)
       COMMON/CTE/GM,GM0
 C DATA INPUT
-      FILEIN='solar_system/solar_system.dat'
+      FILEIN='trappist/trappist.dat'
 C OUTPUT
-      FILEOU='solar_system/solar_system_out.dat'
+      FILEOU='trappist/trappist_out.dat'
 C UNIT TIME = JULIAN YEAR
 C UNIT MASS = SOLAR MASS
 C UNIT DISTANCE = AU
